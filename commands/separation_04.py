@@ -2,8 +2,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn import svm
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
-import glob, os
-from .helpers.xml_helper import read_xml_model
+import glob, os, sys
+sys.path.append('/home/vlad/lib_tests/mm')
+from helpers.xml_helper import read_xml_model
 from settings import *
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import train_test_split

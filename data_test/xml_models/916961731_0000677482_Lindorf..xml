@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml_model>
+<text x="2348" h="313" line_num="1" y="2545" w="31" page_num="1" block_num="3">Kundereferanse</text>
+<text x="2348" h="7" line_num="1" y="2966" w="23" page_num="1" block_num="3">:</text>
+<text x="2348" h="163" line_num="1" y="2994" w="32" page_num="1" block_num="3">4698135</text>
+<text x="2298" h="136" line_num="2" y="2544" w="28" page_num="1" block_num="3">Kundenr</text>
+<text x="2299" h="3" line_num="2" y="2965" w="4" page_num="1" block_num="3">:</text>
+<text x="2299" h="154" line_num="2" y="2995" w="28" page_num="1" block_num="3">PK59915</text>
+<text x="2248" h="154" line_num="3" y="2544" w="28" page_num="1" block_num="3">Fakturanr</text>
+<text x="2249" h="3" line_num="3" y="2965" w="20" page_num="1" block_num="3">:</text>
+<text x="2249" h="121" line_num="3" y="2994" w="27" page_num="1" block_num="3">897966</text>
+<text x="2177" h="86" line_num="4" y="167" w="87" page_num="1" block_num="3">LI</text>
+<text x="2178" h="72" line_num="4" y="267" w="87" page_num="1" block_num="3">N</text>
+<text x="2176" h="380" line_num="4" y="353" w="92" page_num="1" block_num="3">DORFF</text>
+<text x="2198" h="192" line_num="4" y="2544" w="28" page_num="1" block_num="3">Fakturadato</text>
+<text x="2199" h="4" line_num="4" y="2964" w="20" page_num="1" block_num="3">:</text>
+<text x="2199" h="186" line_num="4" y="2994" w="28" page_num="1" block_num="3">09.10.2017</text>
+<text x="2148" h="66" line_num="5" y="2543" w="28" page_num="1" block_num="3">Side</text>
+<text x="2149" h="4" line_num="5" y="2964" w="20" page_num="1" block_num="3">:</text>
+<text x="2141" h="66" line_num="5" y="2993" w="35" page_num="1" block_num="3">2(2)</text>
+<text x="2036" h="200" line_num="6" y="1645" w="36" page_num="1" block_num="3">Beregnings</text>
+<text x="2037" h="152" line_num="6" y="2415" w="35" page_num="1" block_num="3">Offentlig</text>
+<text x="2037" h="6" line_num="6" y="2704" w="5" page_num="1" block_num="3">®</text>
+<text x="2045" h="255" line_num="6" y="3106" w="28" page_num="1" block_num="3">Kreditoravgift</text>
+<text x="2010" h="209" line_num="7" y="167" w="28" page_num="1" block_num="3">Beskrivelse</text>
+<text x="2010" h="102" line_num="7" y="705" w="28" page_num="1" block_num="3">Deres</text>
+<text x="2010" h="56" line_num="7" y="821" w="28" page_num="1" block_num="3">ref.</text>
+<text x="2009" h="57" line_num="7" y="1102" w="30" page_num="1" block_num="3">Var</text>
+<text x="2009" h="60" line_num="7" y="1168" w="28" page_num="1" block_num="3">ref:</text>
+<text x="0" h="3509" line_num="7" y="0" w="2484" page_num="1" block_num="3">-</text>
+<text x="2009" h="87" line_num="7" y="1280" w="28" page_num="1" block_num="3">Navn</text>
+<text x="2002" h="160" line_num="7" y="1685" w="36" page_num="1" block_num="3">Grunnlag</text>
+<text x="2010" h="111" line_num="7" y="1984" w="28" page_num="1" block_num="3">Saler</text>
+<text x="0" h="3509" line_num="7" y="0" w="2484" page_num="1" block_num="3">-</text>
+<text x="2002" h="165" line_num="7" y="2163" w="36" page_num="1" block_num="3">Provisjon</text>
+<text x="2002" h="109" line_num="7" y="2461" w="36" page_num="1" block_num="3">Gebyr</text>
+<text x="2014" h="135" line_num="7" y="2673" w="28" page_num="1" block_num="3">Diverse</text>
+<text x="2011" h="72" line_num="7" y="2981" w="28" page_num="1" block_num="3">Mva</text>
+<text x="2003" h="97" line_num="7" y="3261" w="37" page_num="1" block_num="3">(Mva)</text>
+<text x="1920" h="131" line_num="8" y="165" w="35" page_num="1" block_num="3">Arsavgift</text>
+<text x="1927" h="152" line_num="8" y="307" w="24" page_num="1" block_num="3">totalkunde</text>
+<text x="1923" h="101" line_num="8" y="2706" w="29" page_num="1" block_num="3">500,00</text>
+<text x="1924" h="99" line_num="8" y="2952" w="28" page_num="1" block_num="3">125,00</text>
+<text x="1875" h="101" line_num="9" y="2706" w="28" page_num="1" block_num="3">500,00</text>
+<text x="1876" h="98" line_num="9" y="2953" w="27" page_num="1" block_num="3">125,00</text>
+<text x="49" h="98" line_num="1" y="1536" w="17" page_num="1" block_num="6">0001309</text>
+</xml_model>

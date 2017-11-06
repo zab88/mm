@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/home/vlad/lib_tests/mm')
 from helpers.pdf_helper import pdf_to_png
 from helpers.pdf_helper import img_to_xytext
 from helpers.xml_helper import write_xml_model, read_xml_model
